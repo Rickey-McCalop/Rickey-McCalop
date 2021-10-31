@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rickey-McCalop,
 - 👀 I’m interested in Learning and working with C# and developing apps and software that will help the world better harness and distribute resources.
-- 🌱 I’m currently learning Full Stack Development with an emphasis on C# .net.
+- 🌱 I am a Full Stack Developer with an emphasis on C# .net. 
 - 💞️ I’m looking to collaborate on humanitarian Initiatives, and New technology developments.
 - 📫 How to reach me, Rickeymccalop@outlook.com.
 
